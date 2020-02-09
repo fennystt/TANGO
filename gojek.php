@@ -61,7 +61,7 @@ if ($register == false)
                 
         }
     }
-    
+    }
 
 
 ?>
